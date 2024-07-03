@@ -44,11 +44,12 @@ ShareFiles est une plateforme simple et intuitive qui vous permet de partager fa
    - Choisissez l'image à partir de votre ordinateur.
    - Cliquez sur "Envoyer".
 
+![État Initial](images/1-ShareFiles.png)
+
 2. **Partager l'Image** :
    - Une fois l'image uploadée, un lien de partage sera généré automatiquement.
    - Copiez ce lien et partagez-le comme vous le souhaitez.
 
-![État Initial](images/1-ShareFiles.png)
 ![Après Upload](images/2-ShareFiles.png)
 
 ## Conclusion
